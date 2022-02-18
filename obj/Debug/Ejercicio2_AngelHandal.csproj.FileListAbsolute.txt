@@ -1,0 +1,11 @@
+C:\Users\angel\OneDrive\Desktop\Ejercicio #2 AngelHandal\Ejercicio2_AngelHandal\Ejercicio2_AngelHandal\bin\Debug\Ejercicio2_AngelHandal.exe.config
+C:\Users\angel\OneDrive\Desktop\Ejercicio #2 AngelHandal\Ejercicio2_AngelHandal\Ejercicio2_AngelHandal\bin\Debug\Ejercicio2_AngelHandal.exe
+C:\Users\angel\OneDrive\Desktop\Ejercicio #2 AngelHandal\Ejercicio2_AngelHandal\Ejercicio2_AngelHandal\bin\Debug\Ejercicio2_AngelHandal.pdb
+C:\Users\angel\OneDrive\Desktop\Ejercicio #2 AngelHandal\Ejercicio2_AngelHandal\Ejercicio2_AngelHandal\obj\Debug\Ejercicio2_AngelHandal.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\Ejercicio #2 AngelHandal\Ejercicio2_AngelHandal\Ejercicio2_AngelHandal\obj\Debug\Ejercicio2_AngelHandal.csproj.SuggestedBindingRedirects.cache
+C:\Users\angel\OneDrive\Desktop\Ejercicio #2 AngelHandal\Ejercicio2_AngelHandal\Ejercicio2_AngelHandal\obj\Debug\Ejercicio2_AngelHandal.Form1.resources
+C:\Users\angel\OneDrive\Desktop\Ejercicio #2 AngelHandal\Ejercicio2_AngelHandal\Ejercicio2_AngelHandal\obj\Debug\Ejercicio2_AngelHandal.Properties.Resources.resources
+C:\Users\angel\OneDrive\Desktop\Ejercicio #2 AngelHandal\Ejercicio2_AngelHandal\Ejercicio2_AngelHandal\obj\Debug\Ejercicio2_AngelHandal.csproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Desktop\Ejercicio #2 AngelHandal\Ejercicio2_AngelHandal\Ejercicio2_AngelHandal\obj\Debug\Ejercicio2_AngelHandal.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Ejercicio #2 AngelHandal\Ejercicio2_AngelHandal\Ejercicio2_AngelHandal\obj\Debug\Ejercicio2_AngelHandal.exe
+C:\Users\angel\OneDrive\Desktop\Ejercicio #2 AngelHandal\Ejercicio2_AngelHandal\Ejercicio2_AngelHandal\obj\Debug\Ejercicio2_AngelHandal.pdb
